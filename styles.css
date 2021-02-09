@@ -180,7 +180,7 @@ h6 { font-size: 16px;}
 }
 
 
-/* #theme-options-wrapper{
+#theme-options-wrapper{
 	display: flex;
 	justify-content: center;
 }
@@ -372,7 +372,7 @@ h6 { font-size: 16px;}
 }
 
 
-.input-field{
+/* .input-field{
 	width: 100%;
 	padding-top: 10px;
 	padding-bottom:10px; 
@@ -429,7 +429,7 @@ h6 { font-size: 16px;}
 
 	}
 
-}
+} */
 
 
- */
+
